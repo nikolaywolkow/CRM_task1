@@ -1,0 +1,44 @@
+counterparty_id=1
+bin_iin=760724300757
+dataCreate=01.01.2020
+dataUpdate=02.01.2020
+authorCreate=Иванов Иван Иванович
+authorUpdate=Петров Сергей Николаевич
+surname=Семёнов
+name=Борис
+patronymic=Викторович
+date_of_Birth=03.03.1990
+***
+counterparty_id=2
+bin_iin=860724300758
+dataCreate=02.01.2020
+dataUpdate=03.01.2020
+authorCreate=Петров Сергей Николаевич
+authorUpdate=Иванов Иван Иванович
+surname=Блинов
+name=Аркадий
+patronymic=Александрович
+date_of_Birth=03.03.1991
+***
+counterparty_id=3
+bin_iin=866724300754
+dataCreate=04.01.2020
+dataUpdate=05.01.2020
+authorCreate=Петров Сергей Николаевич
+authorUpdate=Иванов Иван Иванович
+surname=Борисов
+name=Денис
+patronymic=Николаевич
+date_of_Birth=03.03.1991
+***
+counterparty_id=4
+bin_iin=866724344754
+dataCreate=15.01.2020
+dataUpdate=16.01.2020
+authorCreate=Петров Сергей Николаевич
+authorUpdate=Иванов Иван Иванович
+surname=Сидов
+name=Влентин
+patronymic=Денисович
+date_of_Birth=03.03.1988
+***

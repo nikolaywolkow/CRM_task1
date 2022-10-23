@@ -1,0 +1,8 @@
+C:\Users\Ksenia\source\repos\CRM_task\CRM_task\bin\Debug\CRM_task.exe.config
+C:\Users\Ksenia\source\repos\CRM_task\CRM_task\bin\Debug\CRM_task.exe
+C:\Users\Ksenia\source\repos\CRM_task\CRM_task\bin\Debug\CRM_task.pdb
+C:\Users\Ksenia\source\repos\CRM_task\CRM_task\obj\Debug\CRM_task.csproj.AssemblyReference.cache
+C:\Users\Ksenia\source\repos\CRM_task\CRM_task\obj\Debug\CRM_task.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ksenia\source\repos\CRM_task\CRM_task\obj\Debug\CRM_task.csproj.CoreCompileInputs.cache
+C:\Users\Ksenia\source\repos\CRM_task\CRM_task\obj\Debug\CRM_task.exe
+C:\Users\Ksenia\source\repos\CRM_task\CRM_task\obj\Debug\CRM_task.pdb
